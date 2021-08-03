@@ -29,6 +29,6 @@
 
 <h3 align="center">Stats:</h3>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ekqrcalamity&show_icons=true&locale=en&layout=compact&theme=gotham"></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ekqrcalamity&show_icons=true&locale=en&theme=gotham"></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ekqrcalamity&theme=gotham"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=EKQRCalamity&show_icons=true&locale=en&layout=compact&theme=gotham"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=EKQRCalamity&show_icons=true&locale=en&theme=gotham"></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EKQRCalamity&theme=gotham"></p>
