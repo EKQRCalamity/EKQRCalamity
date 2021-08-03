@@ -3,7 +3,7 @@
 
 <h3 align="center">I love to code and I am highly interested in game exploiting/scripting in general</h3>
 
-<h3 align="center"> Perosnal information: </h3>
+<h3 align="center"> Personal information: </h3>
 <p align="center">
   <h5 align="center"> ◽️ Support for scripting platform</h4>
   <h5 align="center"> ◽️ Languages: german(native),english,spanish</h4>
