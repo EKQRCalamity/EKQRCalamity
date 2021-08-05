@@ -28,6 +28,6 @@
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 <h3 align="center">Stats:</h3>
-<p align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=EKQRCalamity&show_icons=true&locale=en&layout=compact&theme=gotham" alt="TopLangs"></a></p>
-<p align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api?username=EKQRCalamity&show_icons=true&locale=en&theme=gotham" alt="stats" ></a></p>
-<p align="center"><a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EKQRCalamity&theme=gotham" alt="streak"></a></p>
+<p align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=EKQRCalamity&show_icons=true&locale=en&layout=compact&theme=bear" alt="TopLangs"></a></p>
+<p align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api?username=EKQRCalamity&show_icons=true&locale=en&theme=bear" alt="stats" ></a></p>
+<p align="center"><a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EKQRCalamity&theme=bear" alt="streak"></a></p>
