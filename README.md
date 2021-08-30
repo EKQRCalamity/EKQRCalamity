@@ -5,10 +5,9 @@
 
 <h3 align="center"> Personal information: </h3>
 <p align="center">
-  <h5 align="center"> ◽️ Support for scripting platform</h4>
-  <h5 align="center"> ◽️ Languages: german(native),english,spanish</h4>
-  <h5 align="center"> ◽️ Birthday: 11th of september</h4>
-  <h5 align="center"> ◽️ Living in: Saxony - Chemnitz</h4>
+  <h5 align="center"> ◽️ Languages: german(native),english,spanish</h5>
+  <h5 align="center"> ◽️ Birthday: 11th of september</h5>
+  <h5 align="center"> ◽️ Living in: Saxony - Chemnitz</h5>
   <h5 align="center"> ◽️ Interested in: programming, games, philosophy, manga, anime, light novels</h5>
 </p>
 
