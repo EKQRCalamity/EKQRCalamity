@@ -1,6 +1,3 @@
-
-<p align="center"><a href="#"><img src="https://i.ibb.co/LCktJ75/main.png" alt="main" border="0"></a></p>
-
 <h3 align="center">I love to code and I am highly interested in game exploiting/scripting in general</h3>
 
 <h3 align="center"> Personal information: </h3>
