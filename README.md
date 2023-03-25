@@ -1,13 +1,3 @@
-<h3 align="center">I love to code and I am highly interested in game exploiting/scripting in general</h3>
-
-<h3 align="center"> Personal information: </h3>
-<p align="center">
-  <h5 align="center"> ◽️ Languages: german(native),english,spanish</h5>
-  <h5 align="center"> ◽️ Birthday: 11th of september</h5>
-  <h5 align="center"> ◽️ Living in: Saxony - Chemnitz</h5>
-  <h5 align="center"> ◽️ Interested in: programming, games, philosophy, manga, anime, light novels</h5>
-</p>
-
 ![](https://hit.yhype.me/github/profile?user_id=88363187)
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ekqrcalamity&label=Profile%20views&color=0e75b6&style=flat-square"></p>
