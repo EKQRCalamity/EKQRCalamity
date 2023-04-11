@@ -13,7 +13,3 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
  </p>
-<h3 align="center">Stats:</h3>
-<p align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=EKQRCalamity&show_icons=true&locale=en&theme=blueberry" alt="TopLangs"></a></p>
-<p align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api?username=EKQRCalamity&show_icons=true&locale=en&theme=blueberry" alt="stats" ></a></p>
-<p align="center"><a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EKQRCalamity&theme=blueberry" alt="streak"></a></p>
