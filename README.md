@@ -1,4 +1,7 @@
 <h2 align="center">EKQRCalamity</h2>
+<p  align="center">
+Programmer from Germany. I have fallen in love with Rust.
+</p>
 
 ![](https://hit.yhype.me/github/profile?user_id=88363187)
 
