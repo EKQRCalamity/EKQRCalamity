@@ -8,11 +8,6 @@ Programmer from Germany. I have fallen in love with Rust.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ekqrcalamity&label=Profile%20views&color=0e75b6&style=flat-square">
 </p>
-<p align="center">
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=0br7rantiexc24j7xrz0uydk8&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=0br7rantiexc24j7xrz0uydk8&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" />
-</a>
-</p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">Currently learning Rust (grind), and Zig</p>
 <p align="center">
@@ -68,3 +63,9 @@ Programmer from Germany. I have fallen in love with Rust.
 </p>
 
 ![](https://hit.yhype.me/github/profile?user_id=88363187)
+<p align="center">
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=0br7rantiexc24j7xrz0uydk8&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=0br7rantiexc24j7xrz0uydk8&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" />
+</a>
+</p>
+
