@@ -9,7 +9,7 @@ Programmer from Germany. I have fallen in love with Rust.
   <img src="https://komarev.com/ghpvc/?username=ekqrcalamity&label=Profile%20views&color=0e75b6&style=flat-square">
 </p>
 <h3 align="center">Languages and Tools:</h3>
-<p align="center">Currently learning Rust (grind), and Zig</p>
+<p align="center">Started learning rust mid 2023. Started learning vim beginning of 2024. Learning Go since beginning of 2024... Zig to be announced -_-</p>
 <p align="center">
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
