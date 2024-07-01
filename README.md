@@ -25,8 +25,3 @@ Programmer from Germany. I have fallen in love with Rust.
 </p>
 
 ![](https://hit.yhype.me/github/profile?user_id=88363187)
-<p align="center">
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=0br7rantiexc24j7xrz0uydk8&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=0br7rantiexc24j7xrz0uydk8&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" />
-</a>
-</p>
